@@ -4,3 +4,8 @@ body  {
        font-family: Arial;
 }  
 
+/* HEADERS */
+h1     {
+       text-decoration: underline;
+}
+
